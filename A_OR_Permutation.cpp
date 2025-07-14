@@ -1,4 +1,3 @@
-https://www.codechef.com/problems/PERMOR
 /*
   In the name of Allah, The Most Gracious and The Most Merciful.
  
